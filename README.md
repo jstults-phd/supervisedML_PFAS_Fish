@@ -13,4 +13,4 @@ featureSelection.ipynb provides guidance on feature selection using brute force 
 
 images\\ directory is needed to save images generated from the dataset
 
-FeatureSelection\\ directory is needed to save brute for feature selection data
+FeatureSelection\\ directory is needed to save brute force feature selection data
