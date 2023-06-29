@@ -1,5 +1,5 @@
 This is intended to serve as a reference and guidance document for how ML models can be applied for PFAS source tracking. 
-The authors make no claims to the universal accuracy or general applicability of this model as dfintive evidence of PFAS source contamination.
+The authors make no claims to the universal accuracy or general applicability of this model as difintive evidence of PFAS source contamination.
 
 LangbergData.xlsx is the source file from Langberg et al. 2022 used to generate this dataset.
 The publication and data are universally available in the link below.
